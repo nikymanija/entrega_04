@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Tablet ",
+    "precio": "30000",
+    "thumbnail": "1657025885640-thumbnail-Tablet",
+    "id": 1
+  },
+  {
+    "nombre": "Notebook",
+    "precio": "200000",
+    "thumbnail": "1657025908121-thumbnail-Notebook",
+    "id": 2
+  },
+  {
+    "nombre": "Play Station 5",
+    "precio": "35000",
+    "thumbnail": "1657026348402-thumbnail-Play Station 5",
+    "id": 3
+  }
+]
